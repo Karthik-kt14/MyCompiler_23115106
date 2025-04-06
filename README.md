@@ -82,7 +82,8 @@ x = (a + b) * (c - d) + (a + b);
 ---
 
 ## 📸 Screenshots
-![Running Example](C:\Users\Karthik Teja\OneDrive\圖片\Screenshots\Screenshot 2025-04-06 162105.png)
+
+![Screenshot 2025-04-06 162105](https://github.com/user-attachments/assets/aa9adef8-5c33-4cd0-8b93-7fc09293f5c9)
 
 
 The above are the two examples
