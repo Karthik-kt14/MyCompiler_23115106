@@ -1,19 +1,6 @@
 # MyCompiler_23115106
-Absolutely! Here's how your final `README.md` should look, with everything cleanly structured:
 
----
 
-## ✅ What It Will Contain
-
-✔️ Updated **Example Output**  
-✔️ **How to Run** section  
-✔️ **Project Structure**  
-✔️ **Optimizations Applied**  
-📷 **Screenshots** placeholder with tips on where to place them
-
----
-
-### ✅ Final `README.md`
 
 ```markdown
 # ⚙️ Arithmetic Expression Compiler (Flex + Bison + C++)
@@ -95,34 +82,11 @@ x = (a + b) * (c - d) + (a + b);
 ---
 
 ## 📸 Screenshots
+![Screenshot 2025-04-06 135048](https://github.com/user-attachments/assets/5efc9f64-25fd-4a2a-9691-9985dedfd36e)
+![Screenshot 2025-04-06 135057](https://github.com/user-attachments/assets/c27dd295-0a63-415a-aedb-95f7201376ad)
 
-You can add screenshots here to show:
-
-- Compiler running in the terminal
-- Input being entered
-- Output generated (TAC, optimized instructions, assembly)
-
-### 📂 Recommended Screenshot Folder Structure
-
-```
-project/
-│
-├── screenshots/
-│   ├── run-example.png
-│   └── tac-output.png
-```
-
-### 🖼️ Markdown to Add Screenshots
-
-Below the `## 📸 Screenshots` section above, you can add:
-
-```markdown
-![Running Example](./screenshots/run-example.png)
-![TAC Output](./screenshots/tac-output.png)
-```
-
-> 📌 Tip: Keep images under `screenshots/` and reference them relative to the README.
-
+The above to are the of two examples
+---
 ---
 
 ## 📜 License
